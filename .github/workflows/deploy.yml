@@ -1,3 +1,4 @@
+#gitaction.yml파일
 name: Deploy To EC2
 on:
   push:
