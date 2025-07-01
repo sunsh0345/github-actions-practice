@@ -1,2 +1,2 @@
 # github-actions-practice
-작업
+작업ㅁㄴㅇㄹ
